@@ -1,0 +1,2 @@
+# _Single Responsibilty Principle_
+Ini berarti setiap bagian kode hanya melakukan satu tugas. Bayangkan kode seperti sejumlah kotak, dan setiap kotak harus memiliki satu barang di dalamnya. Ini membuat kode lebih mudah dimengerti dan dikelola.

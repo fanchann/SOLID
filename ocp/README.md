@@ -1,0 +1,2 @@
+# _Open Closed Principle_
+Class yang sudah ditulisi dan disepakati behaviornya harus gampang diwariskan , dan tidak boleh diubah-ubah lagi. Cara mengubahnya dengan mewariskan ke kelas turunan yang punya behavior baru
